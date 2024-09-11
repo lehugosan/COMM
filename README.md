@@ -1,10 +1,10 @@
 # Resources
 
 ### Presentations
-[click here](https://github.com/lehugosan/MKC-1/tree/main/Presentations)
+[Click Here](https://github.com/lehugosan/MKC-1/tree/main/Presentations)
 
 ### Books
-[click here](https://github.com/lehugosan/MKC-1/tree/main/Books)
+[Click Here](https://github.com/lehugosan/MKC-1/tree/main/Books)
 
 ### Movies
 - Helvetica
@@ -15,7 +15,7 @@
 - Milton Glaser: To inform and Delight
 
 ### Typefaces
-- [click here](https://github.com/lehugosan/MKC-1/tree/main/Typefaces)
+- [Click Here](https://github.com/lehugosan/MKC-1/tree/main/Typefaces)
 - [Google Fonts](https://fonts.google.com/)
 - [Uncut](https://uncut.wtf/)
 - [Fontshare](https://www.fontshare.com/)
