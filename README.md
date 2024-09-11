@@ -6,6 +6,9 @@
 ### Books
 [click here](https://github.com/lehugosan/MKC-1/tree/main/Books)
 
-### Links
+### Movies
+[click here](https://github.com/lehugosan/MKC-1/tree/main/Movies)
 
-#### Teste
+### Other Important Links
+*Publications*
+- [Creative Boom]()
