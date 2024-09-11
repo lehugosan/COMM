@@ -15,6 +15,11 @@
 - Milton Glaser: To inform and Delight
 
 ### Typefaces
+- [click here](https://github.com/lehugosan/MKC-1/tree/main/Typefaces)
+- [Google Fonts](https://fonts.google.com/)
+- [Uncut](https://uncut.wtf/)
+- [Fontshare](https://www.fontshare.com/)
+- [Free Faces](https://www.freefaces.gallery)
 
 ### Other Important Links
 *Publications*
@@ -46,6 +51,7 @@
 - [Standards](https://standards.site/)
 - [D&AD](https://www.dandad.org/)
 - [Dribbble](https://dribbble.com/)
+- [Typographic Posters](https://www.typographicposters.com/)
 
 *Color*
 - [Pantone](https://www.pantone.com/)
