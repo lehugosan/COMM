@@ -27,8 +27,15 @@
 - [Ayga - Eye on Design](https://eyeondesign.aiga.org/)
 
 *Mockups*
+- [Unblast](https://unblast.com/mockups/)
+- [The Mockup Club](https://themockup.club/)
+- [Anthony Boyd](https://www.anthonyboyd.graphics/)
+- [PSDRepo](https://psdrepo.com/)
+- [GraphicPear](https://www.graphicpear.com/)
+- [Mockups-Design](https://mockups-design.com/)
 
 *Image Banks*
+- [Unsplash](https://unsplash.com/)
 
 *Inspiration*
 - [Awwwards](https://www.awwwards.com/)
@@ -41,7 +48,15 @@
 - [Dribbble](https://dribbble.com/)
 
 *Color*
+- [Pantone](https://www.pantone.com/)
+- [Adobe Color](https://color.adobe.com/)
+- [CMY Color Wheel](https://play.google.com/store/apps/details?id=com.cmycolorwheel.cmy&hl=en)
 
 *Paper*
+- [Fedrigoni](https://specialpapers.fedrigoni.com/prt/)
+- [MetaPaper](https://www.metapaper.io/en/)
+- [Inapa](https://inapaportugal.pt/)
 
 *Podcasts*
+- [The Creative Boom Podcast](https://www.creativeboom.com/podcast/)
+- [Design Matters - Debbie Millman](https://www.designmattersmedia.com/)
