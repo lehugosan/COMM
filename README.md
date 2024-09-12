@@ -6,6 +6,9 @@
 ### Books
 [Click Here](https://github.com/lehugosan/COMM/tree/main/Books)
 
+### Shortcuts
+[Click Here](https://github.com/lehugosan/COMM/tree/main/Shortcuts)
+
 ### Movies
 - Helvetica
 - Objectified
